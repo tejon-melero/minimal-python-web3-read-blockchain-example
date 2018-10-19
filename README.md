@@ -15,7 +15,9 @@ make a transaction in metamask between two accounts
 
 ```sh
 install python 3.6
+```
 activate the local python virtual environment: 
+```sh
 source ./project_env/bin/activate
 run python read_blockchain.py 
 ```
