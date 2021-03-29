@@ -35,7 +35,7 @@ py-solc==3.1.0
 pycparser==2.18
 pycryptodome==3.6.4
 pyethash==0.1.27
-Pygments==2.2.0
+Pygments==2.7.4
 pysha3==1.0.2
 PyYAML==3.13
 repoze.lru==0.7
